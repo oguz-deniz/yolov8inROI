@@ -9,5 +9,6 @@ This YOLOv8 Object Detection and Tracking project leverage the YOLOv8 architectu
 - **YOLOv8 Integration:** Utilizes the YOLOv8 architecture for robust and efficient object detection. The pretrained models used in this task are: yolov8n, yolov8s and yolov8m.
 - **Region of Interest (ROI):** Define a specific area within the video frames to concentrate object detection and tracking efforts.
 - **Object Tracking:** Implements a tracking mechanism to monitor and track objects across frames by using a simple thresholding logic between bounding boxes' centroids.
+- **Naive Performance Evaluation between YOLOv8 Models:** A simple performace comparison is made among 3 models via their FPS values.
 - **Customization:** Easily adjust ROI coordinates, YOLOv8 parameters, and output settings to suit your specific use case. The output videos and frames are also provided in this repo.
 - **Open Source:** The project is open-source, allowing for contributions and customization.
