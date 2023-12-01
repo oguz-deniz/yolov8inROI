@@ -1,5 +1,3 @@
-# yolov8inROI
-
 # YOLOv8 Object Detection and Tracking in ROI 
 
 ## Overview
